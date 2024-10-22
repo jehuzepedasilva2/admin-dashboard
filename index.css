@@ -210,9 +210,12 @@ a {
 .anoun {
   display: flex;
   flex: 1;
-  gap: 15px;
+  gap: 8px;
   flex-direction: column;
-  padding: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 19px;
 }
 
 .board {
