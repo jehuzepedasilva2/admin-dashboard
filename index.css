@@ -220,7 +220,7 @@ a {
 
 .board {
   flex: 1;
-  display: flex;
   background-color: white;
+  padding: 20px;
   border-radius: 10px;
 }
